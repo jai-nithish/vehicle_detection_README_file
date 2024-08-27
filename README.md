@@ -10,7 +10,7 @@ This project implements a vehicle detection system leveraging adaptive multimoda
 
 ## System Architecture
 
-![System Architecture](path/to/your/image/Screenshot-2024-08-27-212234.png)
+![System Architecture](Screenshot 2024-08-27 212234.png)
 
 The system follows these key steps:
 
