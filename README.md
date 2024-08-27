@@ -9,7 +9,11 @@ Here's a README file that incorporates the system architecture image and mention
 This project implements a vehicle detection system leveraging adaptive multimodal feature fusion and cross-modal vehicle indexing. By using RGB and Thermal (RGB-T) images, the system aims to improve detection accuracy in challenging environments.
 
 ## System Architecture
-System Architecture((https://github.com/jai-nithish/vehicle_detection_README_file/blob/04e5ee06ebaf7d648bd7446748541416d876e547/Screenshot%202024-08-27%20212234.png))
+
+System Architecture
+
+![image](https://github.com/user-attachments/assets/ca2ee986-2e63-4010-9a7c-b88be55c9fcd)
+
 
 The system follows these key steps:
 
